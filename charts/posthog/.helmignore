@@ -19,5 +19,11 @@
 .project
 .idea/
 *.tmproj
-.vscode/
-tests
+# helm/charts
+OWNERS
+hack/
+ci/
+kube-prometheus-*.tgz
+CONTRIBUTING.md
+README.md
+unittests/
